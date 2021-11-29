@@ -1,0 +1,2 @@
+middle_pkg
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/daeho/catkin_ws2/devel -DCMAKE_INSTALL_PREFIX=/home/daeho/catkin_ws2/install
