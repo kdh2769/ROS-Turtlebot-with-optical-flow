@@ -1,8 +1,15 @@
-# **ROS-Turtlebot-with-optical-flow Manual** 
 
-​																					**2018102094  소프트웨어융합학과 김대호**    
 
-​																										     Ubuntu 16.04 , ROS Kinetic 
+# **ROS Turtulebot control using Opical flow** 
+
+## Execution of project
+
+![거북이](https://user-images.githubusercontent.com/69508245/146329165-2f631adf-bac1-4e76-91f5-45195b1ba691.gif)
+
+## Manual
+**2018102094  소프트웨어융합학과 김대호**    
+
+Ubuntu 16.04 , ROS Kinetic 
 
 1. ```$ roscore ```  	
 
